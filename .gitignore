@@ -1,0 +1,32 @@
+# Python-related files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# IDE or editor-specific files
+.idea/
+.vscode/
+
+# Compiled files and packages
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Logs and temporary files
+*.log
+*.swp
+*.swo
+*.tmp
+
+# User-specific files (customize to your needs)
+config.json
+secrets.json
