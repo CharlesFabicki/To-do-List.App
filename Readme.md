@@ -56,6 +56,21 @@ This is a simple To-Do List application created using the Tkinter library in Pyt
 
 7. Click the "Exit" button to close the application.
 
+## Contributing
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+
+## Fork the repository.
+Create a new branch for your feature or bug fix: git checkout -b feature-name.
+Make your changes and commit them: git commit -m 'Add new feature'.
+Push to the branch: git push origin feature-name.
+Create a pull request.
+## License
+This project is licensed under the  GNU GENERAL PUBLIC LICENSE - see the LICENSE file for details.
+
+## Acknowledgments
+Thanks to the tkinter and tkcalendar libraries for providing the tools to build the GUI.
+Special thanks to the Python community for support and inspiration.
+
 ## Note
 
 - The application uses a text file (`tasks.txt`) to store tasks. Make sure to keep this file in the same directory as the application script.
