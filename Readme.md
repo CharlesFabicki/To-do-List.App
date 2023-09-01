@@ -28,13 +28,13 @@ This is a simple To-Do List application created using the Tkinter library in Pyt
 
 2. Install the required libraries by running the following command:
 
-3. Download the provided code and save it in a file named `todo_app.py`.
+3. Download the provided code and save it in a file named `main.py`.
 
 ## Usage
 
 1. Open a terminal or command prompt.
 
-2. Navigate to the directory where `todo_app.py` is located.
+2. Navigate to the directory where `main.py` is located.
 
 3. Run the application using the following command:
 
