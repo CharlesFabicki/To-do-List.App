@@ -3,7 +3,11 @@
 This is a simple To-Do List application created using the Tkinter library in Python. The application allows users to manage their tasks, mark them as done, set deadlines, and perform various other actions. The graphical user interface (GUI) provides an intuitive way to interact with the application.
 ## Screenshots
 ![To-Do-List-App](https://github.com/CharlesFabicki/To-do-List.App/assets/103677730/b880eafa-5d84-43de-8554-0d297412f335)
+
+
 ![Tasks](https://github.com/CharlesFabicki/To-do-List.App/assets/103677730/05d68db6-34aa-4996-9ff1-e380ae1079a2)
+
+
 ![To-Do](https://github.com/CharlesFabicki/To-do-List.App/assets/103677730/95b2e647-01b2-4996-822a-f33ae1ea3c22)
 
 
